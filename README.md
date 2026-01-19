@@ -4,8 +4,7 @@ This repository contains beginner-level Azure cloud projects created using the A
 
 ## Project 1: Create Resource Group and Virtual Machine
 
-
-☁️ Step 3: Create Resource Group (Azure Portal)
+### Create Resource Group (Azure Portal)
 
 Login to https://portal.azure.com
 
@@ -33,7 +32,7 @@ Click Create
 
 ✅ Resource Group created
 
-🖥️ Step 4: Create Virtual Machine
+### Create Virtual Machine
 
 In Azure Portal → Search Virtual Machines
 
@@ -73,10 +72,7 @@ Username:
 azureuser
 
 
-Password:
-
-YourStrongPassword@123
-
+Password : StrongPassword@123
 
 ⚠️ Save username/password safely
 
@@ -109,10 +105,11 @@ Click Create
 ![VM Running](vm-running.png)
 
 
-🧹 Step 8: Stop or Delete VM (Cost Saving)
+### Stop or Delete VM (Cost Saving)
 
 1. Go to Virtual Machine
 
 2. Click Stop ( OR ) Delete VM + Resource Group
+
 
  
