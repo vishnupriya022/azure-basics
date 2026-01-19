@@ -16,15 +16,9 @@ Fill details:
 
 Subscription: Default
 
-Resource group name:
+Resource group name: rg-azure-basics
 
-rg-azure-basics
-
-
-Region:
-
-UK South (or any nearby region)
-
+Region: UK South (or any nearby region)
 
 Click Review + Create
 
@@ -42,35 +36,17 @@ Basics Tab:
 
 Subscription: Default
 
-Resource group:
+Resource group: rg-azure-basics
 
-rg-azure-basics
+Virtual machine name: vm-basics-01
 
+Region: UK South
 
-Virtual machine name:
+Image: Windows Server 2019 Datacenter
 
-vm-basics-01
+Size: Standard B1s (Free / Low cost)
 
-
-Region:
-
-UK South
-
-
-Image:
-
-Windows Server 2019 Datacenter
-
-
-Size:
-
-Standard B1s (Free / Low cost)
-
-
-Username:
-
-azureuser
-
+Username: azureuser
 
 Password : StrongPassword@123
 
@@ -113,3 +89,4 @@ Click Create
 
 
  
+
