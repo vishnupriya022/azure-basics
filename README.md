@@ -60,14 +60,17 @@ Click Create
 
 ### Screenshots
 
-#### Resource Group Created
+### Resource Group Created
 ![Resource Group](screenshots/rg-created.png)
 
-#### Virtual Machine Created
+
+### Virtual Machine Created
 ![Virtual Machine](screenshots/vm-created.png)
 
-#### VM Running
+
+### VM Running
 ![VM Running](screenshots/vm-running.png)
+
 
 
 ### Stop or Delete VM (Cost Saving)
@@ -75,11 +78,13 @@ Click Create
 1. Go to Virtual Machine
 
 2. Click Stop ( OR ) Delete VM + Resource Group
+3. 
 
-### #### Resource group deleted
+#### Resource group deleted
 ![Resource group deleted](screenshots/resource-group-deleted.png)
 
 
  
+
 
 
