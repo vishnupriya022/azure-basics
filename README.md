@@ -12,13 +12,11 @@ Search Resource groups
 
 Click Create
 
-Fill details:
+Subscription: Azure subscription 1
 
-Subscription: Default
+Resource group name: myproject
 
-Resource group name: rg-azure-basics
-
-Region: UK South (or any nearby region)
+Region: Central India
 
 Click Review + Create
 
@@ -32,53 +30,44 @@ In Azure Portal → Search Virtual Machines
 
 Click Create → Azure Virtual Machine
 
-Basics Tab:
-
-Subscription: Default
+Subscription: Azure subscription 1
 
 Resource group: rg-azure-basics
 
-Virtual machine name: vm-basics-01
+Virtual machine name: vm22
 
-Region: UK South
+Region: Central India
 
-Image: Windows Server 2019 Datacenter
+Image: Ubuntu Server 24.04 LTS-Gen 2
 
-Size: Standard B1s (Free / Low cost)
+Size: Standard B2ats v2
 
-Username: azureuser
-
-Password : StrongPassword@123
-
-⚠️ Save username/password safely
-
-Click:
+Username: azure
 
 Next → Review + Create
 
 Click Create
 
-⏳ Wait 2–5 minutes
 ✅ Virtual Machine created
 
 
 ### Steps Performed
 
 1. Logged into Azure Portal
-2. Created a Resource Group named `rg-azure-basics`
-3. Created a Virtual Machine named `vm-basics-01`
+2. Created a Resource Group named `myproject`
+3. Created a Virtual Machine named `vm22`
 4. Verified VM running status
 
 ### Screenshots
 
 #### Resource Group Created
-![Resource Group](rg-created.png)
+![Resource Group](screenshots/rg-created.png)
 
 #### Virtual Machine Created
-![Virtual Machine](vm-created.png)
+![Virtual Machine](screenshots/vm-created.png)
 
 #### VM Running
-![VM Running](vm-running.png)
+![VM Running](screenshots/vm-running.png)
 
 
 ### Stop or Delete VM (Cost Saving)
@@ -87,6 +76,10 @@ Click Create
 
 2. Click Stop ( OR ) Delete VM + Resource Group
 
+### #### Resource group deleted
+![Resource group deleted](screenshots/resource-group-deleted.png)
+
 
  
+
 
